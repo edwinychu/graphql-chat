@@ -1,0 +1,3 @@
+targets:
+  dev: shared-eu-west-1/cjfohx5613dvo0152o86qoisf
+  default: dev
